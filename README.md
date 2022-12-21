@@ -10,6 +10,7 @@ else copy the code from the .txt and execute it in [tutorialspoint](https://www.
 Tests are carried out with even and odd numbers, however the ***division*** does not work well with odd numbers.
 
 ## Errors
+```diff
 -Power- is not functional
 -Division- does not handle decimal exceptions.
 -Subtraction- does not handle exceptions with negatives
