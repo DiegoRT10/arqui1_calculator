@@ -11,10 +11,10 @@ Tests are carried out with even and odd numbers, however the ***division*** does
 
 ## Errors
 ```diff
--Power- is not functional
--Division- does not handle decimal exceptions.
--Subtraction- does not handle exceptions with negatives
-
+-Power is not functional
+-Division does not handle decimal exceptions.
+-Subtraction does not handle exceptions with negatives
+```
 ## Information 
 The program was developed to comply with a practice of computer architecture and assemblers 1 [CUNORI](http://cunori.edu.gt/)
 class taught by [Francisco Ardon](https://github.com/fran2344)
