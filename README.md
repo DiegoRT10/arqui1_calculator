@@ -19,6 +19,7 @@ Tests are carried out with even and odd numbers, however the ***division*** does
 The program was developed to comply with a practice of computer architecture and assemblers 1 [CUNORI](http://cunori.edu.gt/)
 class taught by [Francisco Ardon](https://github.com/fran2344)
 
-## Pictures
+## Show
 ![Image text](https://github.com/DiegoRT10/arqui1_calculator/blob/main/Captura%20de%20pantalla_20221220_233535.png)
+![Image text](https://github.com/DiegoRT10/arqui1_calculator/blob/main/Captura%20de%20pantalla_20221220_233625.png)
 
